@@ -1,0 +1,4 @@
+StockWatcher
+============
+
+GWT stockwatcher example
